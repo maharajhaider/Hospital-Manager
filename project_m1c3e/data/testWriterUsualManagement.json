@@ -1,0 +1,14 @@
+{"patients": [
+    {
+        "doctor": "Boparai",
+        "dob": 20031004,
+        "name": "Maharaj",
+        "conditions": "Heart"
+    },
+    {
+        "doctor": "Tarun",
+        "dob": 20020903,
+        "name": "Haider",
+        "conditions": "Mental Health"
+    }
+]}
