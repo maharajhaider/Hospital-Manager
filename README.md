@@ -45,4 +45,4 @@ paper-based, a lot of important information including
   -As a user, I want to be able to load the information of the past
   patients from the file.
   
- This project also logs all the event and prints it out when you quit!
+ This project also logs all the event and prints it on console when you quit!
